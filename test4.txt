@@ -1,2 +1,2 @@
 This is a new test4.txt file.
-line added from local repo
+Adding another line from remote.
